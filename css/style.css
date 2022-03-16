@@ -92,6 +92,21 @@ p{
 .img-wrapper:hover .cs-layover i.fa-plus{
     display: block;
 }
+#about p{
+    text-align: left;
+}
+#contact form{
+    text-align: left;
+}
+.form-control{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.btn_green{
+    background-color: #1ABC9C;
+    color: white;
+}
 /* footer */
 .footer_top{
     background-color: #3A546D;
